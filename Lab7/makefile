@@ -1,4 +1,4 @@
-all: Lab7_1 Lab7_2 Lab7_3 Lab7_4 Lab7_5 Lab7_6
+all: Lab7_1 Lab7_2 Lab7_3 Lab7_4 Lab7_5 Lab7_6 Lab7_G4_8
 
 Lab7_1:
 	gcc -o Lab7_1 Lab7_1.s
@@ -12,6 +12,8 @@ Lab7_5:
 	gcc -o Lab7_5 Lab7_5.s
 Lab7_6:
 	gcc -o Lab7_6 Lab7_6.s
+Lab7_G4_8:
+	gcc -o Lab7_G4_8 Lab7_G4_8.s
 
 clean:
-	rm Lab7_1 Lab7_2 Lab7_3 Lab7_4 Lab7_5 Lab7_6
+	rm Lab7_1 Lab7_2 Lab7_3 Lab7_4 Lab7_5 Lab7_6 Lab7_G4_8

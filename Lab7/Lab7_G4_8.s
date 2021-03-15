@@ -8,7 +8,7 @@ question:   .asciz  "Enter 2 Numbers: "
     .balign 4
 pattern:    .asciz  "%d %d"
     .balign 4
-output:     .asciz  "Result: %d %% %d = %d"
+output:     .asciz  "Result: %d %% %d = %d\n"
     .balign 4
 num1:       .word   0
     .balign 4
@@ -25,6 +25,7 @@ loop_mod_plus:
 
     CMP R0, R1
     BLT con
+    MOV R2, #100
     SUB R0, R0, R1
     B loop_mod_plus
 
