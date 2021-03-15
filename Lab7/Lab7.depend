@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1615710273 source:/home/pi/Assembly/Lab7/main.c
+	<stdio.h>
+	<stdlib.h>
+
+1615719507 source:/home/pi/Assembly/Lab7/main.s
+
+1615732737 source:/home/pi/Assembly/Lab7/Lab7_1.s
+
+1615732759 source:/home/pi/Assembly/Lab7/Lab7_2.s
+
+1615733544 source:/home/pi/Assembly/Lab7/Lab7_3.s
+
+1615733769 source:/home/pi/Assembly/Lab7/Lab7_4.s
+
+1615737512 source:/home/pi/Assembly/Lab7/Lab7_5.s
+
+1615742170 source:/home/pi/Assembly/Lab7/Lab7_6.s
+
+1615802238 source:/home/pi/Assembly/Lab7/Lab7_G4_8.s
+
