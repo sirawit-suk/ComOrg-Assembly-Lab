@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1616058998 source:/home/pi/Assembly/Lab8/main.c
+	<stdio.h>
+	<stdlib.h>
+
+1616058171 source:/home/pi/Assembly/Lab8/loop_mod_plus.s
+
+1616058171 source:/home/pi/Assembly/Lab8/Lab8_H4_5.s
+
