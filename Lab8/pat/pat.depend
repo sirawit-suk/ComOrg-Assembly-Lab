@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1616228190 source:/home/pi/Assembly/Lab8/pat/main.c
+	<stdio.h>
+
+1616227782 source:/home/pi/Assembly/Lab8/pat/GCD.s
+
+1616227782 source:/home/pi/Assembly/Lab8/pat/gcd_s.s
+

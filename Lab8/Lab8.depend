@@ -1,5 +1,5 @@
 # depslib dependency file v1.0
-1616058998 source:/home/pi/Assembly/Lab8/main.c
+1616228333 source:/home/pi/Assembly/Lab8/main.c
 	<stdio.h>
 	<stdlib.h>
 

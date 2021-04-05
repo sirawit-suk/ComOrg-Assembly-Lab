@@ -1,6 +1,9 @@
 #include <stdio.h>
 #include <stdlib.h>
 
+int loop_mod_plus(int, int);
+int loop_mod_minus(int, int);
+
 int main()
 {
     int num1, num2, i;
