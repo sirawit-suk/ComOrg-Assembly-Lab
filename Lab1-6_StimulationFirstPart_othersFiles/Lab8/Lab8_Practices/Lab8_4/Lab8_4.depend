@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1616055578 source:/home/pi/Assembly/Lab8/Lab8_4/add_s.s
+
+1616055565 source:/home/pi/Assembly/Lab8/Lab8_4/main.c
+	<stdio.h>
+	<stdlib.h>
+

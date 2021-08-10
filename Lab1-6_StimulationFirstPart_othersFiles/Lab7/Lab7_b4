@@ -1,0 +1,5 @@
+numbers	DCB		255,11,12,13,14
+		
+main		LDR		R3, =numbers
+		LDR		R0, [R3, #2]
+		

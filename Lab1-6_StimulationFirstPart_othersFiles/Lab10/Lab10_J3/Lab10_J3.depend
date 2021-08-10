@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1617649474 source:/home/pi/Assembly/Lab10/Lab10_J3/main.c
+	<stdio.h>
+	<stdlib.h>
+	<wiringPi.h>
+
